@@ -62,6 +62,7 @@ html {
     display: flex;
     align-items: center;
     justify-content: center;
+    background-color: var(--color-blanco);
 }
 
 .mainUser .listUsers {
@@ -71,6 +72,7 @@ html {
     flex-direction: column;
     align-items: center;
     justify-content:flex-start;
+    background-color: var(--color-blanco);
     border-right: 2px solid var(--color-marron-oscuro);
     overflow-y: scroll;
     scrollbar-color: var(--color-marron-oscuro) var(--color-blanco); /*Estilos para la barra de desplazamiento de Firefox */
