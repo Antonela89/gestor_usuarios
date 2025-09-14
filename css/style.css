@@ -13,6 +13,7 @@
 
 html {
     font-size: 62.5%; /* 1rem será igual a 10px (62.5% de 16px) */
+    background-color: var(--color-blanco);
 }
 
 .headerUser, .footerUser{
